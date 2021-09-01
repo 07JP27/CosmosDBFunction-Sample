@@ -1,0 +1,1 @@
+Dependency Injection of Cosmos DB to Azure Function using Repository pattern Sample.
